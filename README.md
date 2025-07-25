@@ -1,4 +1,5 @@
 An EDA project I did for someone who asked me. <br>
+Model used are 'linear regression' and 'random forest'. <br>
 Attached code files, excel results, and visualization.
 
 Snip of the project data:

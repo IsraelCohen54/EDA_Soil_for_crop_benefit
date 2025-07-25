@@ -6,6 +6,6 @@ Snip of the project data:
 <br>Columns full name:
 extruder_location, temperature_setpoint10cm, temperature_setpoint20cm<br>
 temperature_setpoint30cm, temperature_setpoint40cm, temperature_setpoint50cm<br>
-temperature_setpoint60cm, screw_rpm, water_input, protein_source,firmness. <br>
+temperature_setpoint60cm, screw_rpm, water_input, protein_source, firmness. <br>
 
 Results are shown in the visualizations.pptx file.
